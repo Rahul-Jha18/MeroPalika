@@ -39,11 +39,6 @@ Python 3.8+
 
 Virtual environment (venv or virtualenv)
 
-Steps
-# Clone the repository
-git clone https://github.com/samir-28/MeroPalika.git
-cd MeroPalika
-
 # Create & activate virtual environment
 python -m venv venv
 source venv/bin/activate     # On Windows: .\venv\Scripts\activate
@@ -103,3 +98,4 @@ Commit changes (git commit -m "Add feature xyz")
 Push branch (git push origin feature-xyz)
 
 Create a Pull Request
+
